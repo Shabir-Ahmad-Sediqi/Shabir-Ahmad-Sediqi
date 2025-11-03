@@ -1,63 +1,62 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=28F7E1&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Shabir+Ahmad+Sediqi+👋;Full+Stack+Web+Developer+💻;Competitive+Programmer+⚡;AI+Learner+🤖" />
+  <!-- Header image: upload the generated image as ./header.png in the repo root -->
+  <img src="./header.png" alt="Shabir Ahmad Sediqi — Cyberpunk" width="900"/>
+</p>
+
+<h2 align="center" style="margin-top: 8px;">Hey there! I'm <strong>Shabir Ahmad Sediqi</strong> 👋</h2>
+<p align="center">Full Stack Web Developer • Competitive Programmer • AI Enthusiast</p>
+
+---
+
+<p align="center">
+  <a href="https://my-portfolio-zeta-seven-57.vercel.app/" title="Portfolio">Portfolio</a> •
+  <a href="mailto:shabirsediqi@proton.me" title="Email">shabirsediqi@proton.me</a> •
+  <a href="https://codeforces.com/profile/algotitan" title="Codeforces">algotitan</a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **AI & Mathematics**
-- 💻 building software with **JavaScript | TypeScript | Python**
-- 🧠 Problem Solver | Codeforces: **algotitan**
-- 📂 Portfolio: **https://my-portfolio-zeta-seven-57.vercel.app/**
-- 📫 Email: **shabirsediqi@proton.me**
+### 🔭 What I do
+- Building web apps with **Next.js, React, Node.js** and shipping reliable production systems.
+- Competitive programming (Codeforces: **algotitan**) — algorithm-first mindset.
+- Learning **AI & Mathematics** to bring smarter features into products.
 
 ---
 
-### 🌐 Connect With Me
+### 🧰 Tech Arsenal
 <p align="center">
-  <a href="https://linkedin.com/in/shabir-ahmad-sediqi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://fb.com/shabir ahmad"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://codeforces.com/profile/algotitan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="38"/></a>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,tailwind,postgres,mongodb,mysql,redis,linux,git,docker" alt="tech icons"/>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### ⚡ Live Cards & Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,tailwind,postgres,mongodb,mysql,redis,linux,git,docker" />
+  <!-- Codeforces stats card -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=algotitan&theme=tokyonight" alt="Codeforces stats" style="margin:8px; max-width:520px; width:48%;"/>
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shabir-ahmad-sediqi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" style="margin:8px; max-width:520px; width:48%;"/>
 </p>
 
----
-
-### 💥 Competitive Programming (Codeforces)
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=algotitan&theme=tokyonight" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabir-ahmad-sediqi&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabir-ahmad-sediqi&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-### 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabir-ahmad-sediqi&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabir-ahmad-sediqi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" style="max-width:520px; width:48%; margin:8px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabir-ahmad-sediqi&theme=react-dark&hide_border=true" alt="Contribution graph" style="max-width:520px; width:48%; margin:8px;"/>
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shabir-ahmad-sediqi&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shabir-ahmad-sediqi&theme=onedark&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
 
 ### ✨ Fun Fact
-> I debug the code I wrote yesterday while questioning my entire existence 😄
+> I turn caffeine into code and debug while questioning reality 😎
+
+---
+
+<p align="center">
+  <sub>Designed in Cyberpunk mode • Built by <strong>Shabir Ahmad Sediqi</strong></sub>
+</p>
