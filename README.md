@@ -1,3 +1,1 @@
-# Shabir_Ahmad_lab
-its just a repo for sharing some information acros
-different devices and friends. 
+https://github.com/Shabir-Ahmad-Sediqi/Shabir-Ahmad-Sediqi.git
